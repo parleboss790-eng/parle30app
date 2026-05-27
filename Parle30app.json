@@ -13,6 +13,12 @@
       "expire_date": "2026-10-20"
     },
     {
+      "device_id": "a530ce04629565ce",
+      "username": "Username",
+      "password": "password",
+      "expire_date": "2026-06-26"
+    },
+    {
       "device_id": "fddcfa851025588c",
       "username": "Username",
       "password": "password",
