@@ -1,100 +1,16 @@
-{
-  "showDialog": true,
-  "title": "🔐 ID Login Parle ",
-  "description":  "Parle LH SFA3.0 PRD ",
-  "button": "LOGIN",
-  "toast": "✅ ID Successfully Logged In!",
-  "renewUrl": "https://t.me/hitesh125sf",
-  "devices": [
-    {
-      "device_id": "441ba50c4a2a94ce",
-      "username": "Username",
-      "password": "password",
-      "expire_date": "2026-10-20"
-    },
-    {
-      "device_id": "8737225c0016f0fd",
-      "username": "Username",
-      "password": "password",
-      "expire_date": "2026-06-28"
-    },
-    {
-      "device_id": "a530ce046295b5ce",
-      "username": "Username",
-      "password": "password",
-      "expire_date": "2026-06-26"
-    },
-    {
-      "device_id": "a530ce04629565ce",
-      "username": "Username",
-      "password": "password",
-      "expire_date": "2025-06-26"
-    },
-    {
-      "device_id": "fddcfa851025588c",
-      "username": "Username",
-      "password": "password",
-      "expire_date": "2026-06-25"
-    },
-    {
-      "device_id": "b17ea845e3fcf9d1",
-      "username": "Username",
-      "password": "password",
-      "expire_date": "2026-06-24"
-    },
-    {
-      "device_id": "ec481bd82f93c033",
-      "username": "Username",
-      "password": "password",
-      "expire_date": "2026-06-21"
-    },
-    {
-      "device_id": "49b585d91616b140",
-      "username": "Username",
-      "password": "password",
-      "expire_date": "2026-06-24"
-    },
-    {
-      "device_id": "db1d6c6c97b49c39",
-      "username": "Username",
-      "password": "password",
-      "expire_date": "2026-06-13"
-    },
-    {
-      "device_id": "7aba89c54d9f7a23",
-      "username": "Username",
-      "password": "password",
-      "expire_date": "2026-06-14"
-    },
-    {
-      "device_id": "3218ca9d94e6c277",
-      "username": "Username",
-      "password": "password",
-      "expire_date": "2026-06-12"
-    },
-    {
-      "device_id": "ec481bd82f93c033",
-      "username": "Username",
-      "password": "password",
-      "expire_date": "2026-05-21"
-    },
-    {
-      "device_id": "ec481bd82f93c033",
-      "username": "Username",
-      "password": "password",
-      "expire_date": "2026-05-21"
-    },
-    {
-      "device_id": "29c7050f2d014679",
-      "username": "Username",
-      "password": "password",
-      "expire_date": "2026-06-12"
-    },
-    {
-      "device_id": "441ba50c4a2a94ce",
-      "username": "Username",
-      "password": "password",
-      "expire_date": "2025-10-20"
-    }
-  ]
-}
+[
+  {
+    "id": "6d95fal7c7e40bea",
+    "username": "dpmods",
+    "password": "dpmods",
+    "expiresAt": "2025-12-31",
+    "allowOffline": true
+  },
+  {
+    "id": "android_device_id_2",
+    "username": "user2",
+    "password": "pass2",
+    "expiresAt": "2025-11-30",
+    "allowOffline": false
+  }
+]
